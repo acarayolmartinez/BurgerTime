@@ -1,0 +1,11 @@
+# z88dk generated files
+build/
+*.tap
+*.tzx
+*.sna
+*.szx
+*.map
+*.lis
+*.sym
+*.o
+*.asm
